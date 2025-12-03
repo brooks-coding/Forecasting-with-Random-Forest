@@ -1,6 +1,6 @@
 # Using Random Forest with Proportional Subsetting for Time Series Forecasting
 
-This project was done as part of the Machine Learning class within my BS program at UCSB. It investigates the research by Hristos Tyralis and Georgia Papacharalampous (https://www.mdpi.com/1999-4893/10/4/114) on the use of Random Forest machine learning models for forecasting, comparing them with contemporary procedures such as the Box-Jenkins methodology and Auto ARIMA.
+This project was done as part of the Machine Learning class within my BS program at UCSB. It investigates the research by Hristos Tyralis and Georgia Papacharalampous on the use of Random Forest machine learning models for forecasting (https://www.mdpi.com/1999-4893/10/4/114), comparing them with contemporary procedures such as the Box-Jenkins methodology and Auto ARIMA.
 
 ### Overview
 - Goal: Validate method feasibility and efficiency compared to standard practice.
